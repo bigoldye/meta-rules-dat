@@ -2,7 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": "fuju1.tv"
+      "domain_suffix": "fuju1.tv",
+      "domain_keyword": "CN.patch.battle.net"
     }
   ]
 }
