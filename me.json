@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": "fuju1.tv",
-      "domain_keyword": "CN.patch.battle.net"
+      "domain": "CN.patch.battle.net"
     }
   ]
 }
