@@ -2,10 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "fuju1.tv",
-        "345673.xyz"
-      ],
+      "domain_suffix": "fuju1.tv",
       "domain": "CN.patch.battle.net"
     }
   ]
