@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": ["345673.xyz",
-        xiaoxintv.app,
-        xiaoxintv.com]
+        "xiaoxintv.app",
+        "xiaoxintv.com"]
     }
   ]
 }
