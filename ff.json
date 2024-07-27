@@ -2,7 +2,9 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": "345673.xyz"
+      "domain_suffix": ["345673.xyz",
+        xiaoxintv.app,
+        xiaoxintv.com]
     }
   ]
 }
