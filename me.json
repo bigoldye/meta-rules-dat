@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": ["fuju1.tv",
-        "kookapp.cn"],
+        "kookapp.cn",
+      "fzjzgc.cn"],
       "domain": "CN.patch.battle.net"
     }
   ]
